@@ -1,0 +1,20 @@
+* {
+  font-family: "Sora", sans-serif;
+}
+
+body{
+    background-color : black;
+    color : white
+}
+
+html {
+    scroll-behavior: auto;
+}
+
+/* Protection générale des images */
+img {
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    user-select: none;
+    pointer-events: none;
+}

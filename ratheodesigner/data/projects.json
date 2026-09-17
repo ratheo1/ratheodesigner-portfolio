@@ -1,0 +1,150 @@
+{
+  "carslink": {
+    "title": "Carslink",
+    "seoTitle": "Carslink — Identité visuelle pour une marque de convoyage automobile",
+    "seoDescription": "Découvrez l'identité visuelle de Carslink, une marque de convoyage automobile et de conciergerie conçue autour de la confiance, de la mobilité et d'un positionnement premium.",
+    "category": "Identité visuelle",
+    "year": "2026",
+    "cover": "../images/carslink_convoyage.JPG",
+    "livrables": "Logo, Carte de visite, charte graphique, Visuels réseaux sociaux, Icônes",
+    "description": [
+      "Une entreprise spécialisée dans le convoyage automobile et la conciergerie, l’objectif était de créer une identité visuelle traduisant la confiance, la précision et la mobilité.",
+      "Le concept s’articule autour d’un monogramme « C » aux formes géométriques, associé à une typographie contemporaine et à une palette sobre de bleu marine, de noir, de blanc et de gris. Un langage visuel élégant et professionnel, conçu pour affirmer le positionnement premium de la marque.",
+      "L’identité se déploie à travers différents supports, des cartes de visite aux vêtements professionnels, en passant par le marquage automobile et les éléments graphiques complémentaires. Chaque application a été pensée pour renforcer la cohérence et la reconnaissance de Carslink."
+    ],
+    "col": 2,
+    "aspect": "4/3",
+    "gallery": [
+      "../images/carsklink/carslink1.JPG",
+      "../images/carsklink/carslink2.JPG",
+      "../images/carsklink/carslink3.JPG",
+      "../images/carsklink/carslink4.JPG"
+    ]
+  },
+
+  "book-collection": {
+    "title": "Couverture de livre & ebook",
+    "seoTitle": "Couvertures de livres et eBooks — Collection de designs",
+    "seoDescription": "Découvrez une collection de couvertures de livres, eBooks et ouvrages Amazon KDP conçues pour différents univers, avec une attention portée à la lisibilité, à l'esthétique et aux contraintes d'impression.",
+    "category": "Design éditorial",
+    "year": "2025-2026",
+    "cover": "../images/couverture.jpg",
+    "livrables": "Couverture eBook, Couverture Amazon KDP, Couverture de livre broché ou relié",
+    "description": [
+      "Cette collection présente une sélection de couvertures conçues pour donner à chaque ouvrage une identité visuelle forte et attirer l’attention dès le premier regard. Chaque création cherche à traduire l’univers, le sujet et le ton du contenu à travers une composition soignée et une direction artistique adaptée.",
+      "La collection s’appuie sur des centaines de couvertures réalisées principalement pour Amazon KDP, mais également pour des imprimeurs traditionnels. Ces créations couvrent différents formats de publication, qu’il s’agisse d’eBooks, de livres brochés ou de livres reliés, avec une attention particulière portée aux contraintes techniques propres à chaque support.",
+      "Dans cette collection, j’ai réalisé des couvertures pour différents univers, notamment le développement personnel, la littérature jeunesse, les romans, l’alimentation, le business, et bien d’autres thématiques."
+    ],
+    "col": 1,
+    "aspect": "16/9",
+    "gallery": [
+      "../images/book-collection/1.jpg",
+      "../images/book-collection/2.jpg",
+      "../images/book-collection/3.jpg",
+      "../images/book-collection/4.jpg",
+      "../images/book-collection/5.jpg",
+      "../images/book-collection/6.jpg",
+      "../images/book-collection/7.jpg",
+      "../images/book-collection/8.jpg",
+      "../images/book-collection/9.jpg",
+      "../images/book-collection/10.jpg"
+    ]
+  },
+
+  "logo-collection": {
+    "title": "Logo Collection v1",
+    "seoTitle": "Logo Collection — Inspiration de logomarks et symboles graphiques",
+    "seoDescription": "Explorez une collection de logomarks et de symboles graphiques minimalistes conçus pour créer des identités de marque distinctives, polyvalentes et reconnaissables.",
+    "category": "Création de logo",
+    "year": "2025",
+    "cover": "../images/logo_collection.jpg",
+    "livrables": "Logo, Logomark, Wordmark",
+    "description": [
+      "Cette collection de logomarks présente une sélection de symboles conçus pour représenter des marques de manière simple, distinctive et mémorable. Chaque création explore l’équilibre entre formes, espaces négatifs et détails graphiques afin de transmettre une idée ou une identité avec clarté.",
+      "Pensés dans une approche minimaliste et contemporaine, ces logos privilégient la lisibilité, la polyvalence et l’impact visuel. Ils peuvent s’adapter à différents secteurs et supports, du digital au print, tout en conservant une signature forte et reconnaissable.",
+      "L’objectif est de créer des symboles intemporels, capables de fonctionner seuls ou associés à une typographie, pour construire des identités visuelles cohérentes et professionnelles."
+    ],
+    "col": 3,
+    "aspect": "4/3",
+    "gallery": [
+      "../images/logo-collection/logo1.jpg",
+      "../images/logo-collection/logo2.jpg",
+      "../images/logo-collection/logo3.jpg",
+      "../images/logo-collection/logo4.jpg",
+      "../images/logo-collection/logo5.jpg",
+      "../images/logo-collection/logo6.jpg",
+      "../images/logo-collection/logo7.jpg",
+      "../images/logo-collection/logo8.jpg",
+      "../images/logo-collection/logo9.jpg",
+      "../images/logo-collection/logo10.jpg"
+    ]
+  },
+
+  "aurora-coffee": {
+    "title": "Aurora Coffee",
+    "seoTitle": "Aurora Coffee — Identité visuelle pour une marque de café artisanal",
+    "seoDescription": "Découvrez Aurora Coffee, une identité visuelle créée pour une marque de café artisanal, associant soleil levant, tasse de café et esthétique premium.",
+    "category": "Identité visuelle",
+    "year": "2026",
+    "cover": "../images/aurora_coffee.jpg",
+    "livrables": "Logo, Carte de visite, charte graphique, Packaging",
+    "description": [
+      "Aurora Coffee Roasters est une marque de café artisanal inspirée par la première lumière de l’aube. Son univers repose sur le savoir-faire, la chaleur et la qualité, avec l’ambition d’offrir une expérience café premium qui sublime les petits moments du quotidien.",
+      "Le logo associe subtilement un soleil levant et une tasse de café au sein d’un symbole raffiné et distinctif. Cette identité visuelle évoque les nouveaux départs, l’authenticité et le rituel d’un café soigneusement préparé."
+    ],
+    "col": 2,
+    "aspect": "4/3",
+    "gallery": [
+      "../images/aurora/aurora1.jpg",
+      "../images/aurora/aurora2.jpg",
+      "../images/aurora/aurora3.jpg",
+      "../images/aurora/aurora4.jpg"
+    ]
+  },
+
+  "stepup": {
+    "title": "StepUp",
+    "seoTitle": "StepUp — Identité visuelle pour une marque de vêtements",
+    "seoDescription": "Découvrez l'identité visuelle de StepUp, une marque de vêtements inspirée par la progression, la discipline et le dépassement de soi, avec logo et applications textiles.",
+    "category": "Identité visuelle",
+    "year": "2026",
+    "cover": "../images/stepup.jpg",
+    "livrables": "Logo, Carte de visite, charte graphique, Mockups de vêtements",
+    "description": [
+      "StepUp™ est une marque de vêtements inspirée par la progression, la discipline et le dépassement de soi. Elle s’adresse à ceux qui avancent chaque jour avec ambition, confiance et détermination.",
+      "L’identité vise à transformer chaque vêtement en un rappel quotidien de l’importance de l’action, de la concentration et de l’évolution personnelle. Le logo traduit cette philosophie à travers une sensation d’élévation, de mouvement et de progression constante.",
+      "Une marque pensée pour encourager chacun à dépasser ses limites et à devenir la meilleure version de lui-même."
+    ],
+    "col": 2,
+    "aspect": "4/3",
+    "gallery": [
+      "../images/stepup/stepup1.jpg",
+      "../images/stepup/stepup2.jpg",
+      "../images/stepup/stepup3.jpg",
+      "../images/stepup/stepup4.jpg"
+    ]
+  },
+
+  "chouss-beauty": {
+    "title": "Chouss Beauty",
+    "seoTitle": "Chouss Beauty — Identité visuelle et packaging pour une marque capillaire",
+    "seoDescription": "Découvrez Chouss Beauty, une identité visuelle et un concept packaging conçus pour une marque de soins capillaires dédiée aux cheveux texturés et à la beauté naturelle.",
+    "category": "Identité visuelle",
+    "year": "2026",
+    "cover": "../images/chouss_beauty.jpg",
+    "livrables": "Logo, Charte graphique, Packaging",
+    "description": [
+      "Chouss Beauty est une marque moderne de soins capillaires dédiée à révéler la beauté naturelle des cheveux texturés grâce à des formules nourrissantes et efficaces.",
+      "Son identité visuelle associe des tons doux, une typographie raffinée et une esthétique minimaliste pour exprimer la pureté, le soin et la confiance.",
+      "Du packaging à la direction artistique, chaque élément crée une expérience beauté premium, centrée sur des cheveux sains, hydratés et revitalisés."
+    ],
+    "col": 2,
+    "aspect": "4/3",
+    "gallery": [
+      "../images/chouss-beauty/chouss1.jpg",
+      "../images/chouss-beauty/chouss2.jpg",
+      "../images/chouss-beauty/chouss3.jpg",
+      "../images/chouss-beauty/chouss4.jpg"
+    ]
+  }
+}

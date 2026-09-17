@@ -1,0 +1,667 @@
+<!doctype html>
+<html lang="fr" class="scroll-smooth">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>
+    Designer graphique freelance | Logo & Identité visuelle — Rathéo Design
+  </title>
+  <meta name="description"
+    content="Rathéo Design accompagne les marques et entrepreneurs avec des services de design graphique, création de logo, identité visuelle, design éditorial et supports de communication.">
+  <link rel="canonical" href="https://ratheodesigner.site/">
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Sora:wght@100..800&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <!--Navbar-->
+  <nav class="relative bg-black px-6 py-6 text-white md:px-10 lg:px-30 lg:py-8">
+
+    <div class="grid grid-cols-3 items-center">
+
+      <!-- Menu Desktop -->
+      <div class="hidden items-center gap-5 lg:flex xl:gap-7">
+        <a href="#work" class="text-base transition-opacity hover:opacity-60">
+          Projets
+        </a>
+        <a href="#about" class="text-base transition-opacity hover:opacity-60">
+          À propos
+        </a>
+        <a href="#services" class="text-base transition-opacity hover:opacity-60">
+          Services
+        </a>
+        <a href="#contact" class="text-base transition-opacity hover:opacity-60">
+          Contact
+        </a>
+        <a href="https://creativemockup.store" target="_blank" class="text-base transition-opacity hover:opacity-60">
+          Store
+        </a>
+      </div>
+
+      <!-- Bouton Menu Mobile -->
+      <div class="flex lg:hidden">
+        <button id="menu-button" type="button" aria-label="Ouvrir le menu" aria-expanded="false"
+          class="flex items-center gap-2 text-sm">
+          <span class="flex flex-col gap-1">
+            <span class="block h-px w-5 bg-white"></span>
+            <span class="block h-px w-5 bg-white"></span>
+          </span>
+        </button>
+      </div>
+
+      <!-- Logo centré -->
+      <div class="flex justify-center">
+        <a href="/" class="block">
+          <img class="w-20 md:w-24" src="images/Logo_ratheo.png" alt="Logo Ratheo">
+        </a>
+      </div>
+
+      <!-- Bouton Contact Desktop -->
+      <div class="hidden items-center justify-end lg:flex">
+        <a href="#contact"
+          class="rounded-full bg-white px-6 py-3 text-sm font-medium text-black transition-all duration-300 hover:bg-white/80">
+          Contact
+        </a>
+      </div>
+
+      <!-- Bouton Contact Mobile -->
+      <div class="flex items-center justify-end lg:hidden">
+        <!-- Bouton Contact mobile -->
+        <a href="#contact" aria-label="Contact"
+          class="ml-auto flex h-10 w-10 items-center justify-center rounded-full bg-white text-black transition-transform duration-300 hover:scale-105 md:hidden">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"
+            stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M5 19L19 5"></path>
+            <path d="M9 5h10v10"></path>
+          </svg>
+        </a>
+      </div>
+
+    </div>
+
+    <!-- Menu Mobile -->
+    <div id="mobile-menu" class="hidden border-t border-white/10 pt-6 lg:hidden">
+      <div class="flex flex-col gap-5">
+        <a href="#work" class="text-2xl">Travail</a>
+        <a href="#about" class="text-2xl">À propos</a>
+        <a href="#services" class="text-2xl">Services</a>
+        <a href="#contact" class="text-2xl">Contact</a>
+        <a href="#" class="text-2xl">Store</a>
+      </div>
+    </div>
+
+  </nav>
+
+  <!--Hero-->
+  <section class="bg-black px-6 py-10 text-white md:px-10 lg:px-30 lg:py-24">
+    <div class="mx-auto grid items-center gap-16 lg:grid-cols-2 lg:gap-20">
+      <!-- Texte -->
+      <div class="max-w-2xl">
+        <p class="mb-6 text-sm uppercase tracking-[0.2em] text-white/50">
+          Brand & Graphic Designer
+        </p>
+        <h1 class="text-5xl font-medium leading-[1.05] tracking-[-0.04em] text-white md:text-6xl lg:text-7xl">
+          Je transforme vos idées en
+          <span class="text-white/40"> identité visuelle forte et mémorable.</span>
+        </h1>
+        <p class="mt-8 max-w-md text-base leading-relaxed text-white/50">
+          Je crée des identités visuelles, des supports de communication et des designs éditoriaux qui donnent vie à
+          vos projets.
+        </p>
+        <!-- Bouton -->
+        <a href="#contact"
+          class="group mt-10 inline-flex items-center gap-4 rounded-full bg-red-600 px-7 py-4 text-sm font-medium text-white transition-all duration-300 hover:bg-red-500">
+          <span>Travailler avec moi</span>
+          <span
+            class="flex h-7 w-7 items-center justify-center rounded-full bg-white/15 transition-transform duration-300 group-hover:translate-x-1">
+            →
+          </span>
+        </a>
+      </div>
+      <!-- Image -->
+      <div class="relative">
+        <div class="overflow-hidden rounded-2xl">
+          <img src="images/hero_image.jpg" alt="hero_image"
+            class="h-full min-h-[450px] w-full object-cover lg:min-h-[600px]">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--Projets-->
+  <section id="work" class="bg-black px-6 py-10 text-white md:px-10 lg:px-30 lg:py-20">
+
+    <!-- En-tête -->
+    <div class="mb-12 flex items-end justify-between border-white/15 pb-6">
+
+      <!-- Titre -->
+      <div>
+        <h2 class="text-3xl font-medium tracking-[-0.03em] md:text-4xl lg:text-5xl">
+          Projets récents
+        </h2>
+      </div>
+
+      <!-- Lien -->
+      <a href="#"
+        class="group !hidden items-center gap-3 text-sm text-white/60 transition-colors duration-300 hover:text-white sm:flex">
+        <span>Plus de projets</span>
+        <span class="transition-transform duration-300 group-hover:translate-x-1">
+          →
+        </span>
+      </a>
+
+    </div>
+
+    <!-- Grille des projets -->
+    <div id="projects-grid" class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+    </div>
+
+    <!-- Lien mobile -->
+    <div class="mt-12 sm:hidden">
+      <a href="#"
+        class="group inline-flex items-center gap-3 text-sm text-white/60 transition-colors duration-300 hover:text-white">
+        <span>Plus de projets</span>
+        <span class="transition-transform duration-300 group-hover:translate-x-1">
+          →
+        </span>
+      </a>
+    </div>
+
+  </section>
+
+  <!--A propos-->
+  <section id="about" class="px-6 py-10 text-white md:px-10 lg:px-30 lg:py-20">
+
+    <div class="mx-auto max-w-7xl">
+
+      <!-- Contenu -->
+      <div class="grid items-start gap-12 lg:grid-cols-2 lg:gap-24">
+
+        <!-- Texte -->
+        <div class="flex flex-col">
+
+          <h3 class="max-w-xl text-4xl font-medium leading-[1.1] tracking-[-0.04em] md:text-5xl lg:text-6xl">
+            Derrière chaque projet, une passion pour le design.
+          </h3>
+
+          <div class="mt-10 space-y-6 text-base leading-relaxed text-white/55">
+            <p>
+              Je suis Rathéo, designer graphique freelance, spécialisé dans la création de logos, d’identités visuelles
+              et de supports de communication. Depuis plus de 5 ans, j’accompagne entrepreneurs, entreprises et marques
+              dans la création d’une image professionnelle, cohérente et distinctive.
+            </p>
+            <p>
+              Chaque projet commence par une compréhension de votre marque, de vos objectifs et de votre univers pour
+              créer une direction visuelle qui vous ressemble. Mon approche combine créativité, simplicité et stratégie,
+              avec une attention particulière aux détails.
+            </p>
+            <p>
+              Du branding au design éditorial, en passant par les réseaux sociaux et les supports print & digitaux, mon
+              objectif reste le même : transformer vos idées en une identité visuelle forte, cohérente et durable.
+            </p>
+          </div>
+
+          <!-- Informations -->
+          <div class="mt-8 grid grid-cols-3 gap-8 border-t border-white/15 pt-8 sm:grid-cols-3">
+
+            <div>
+              <p class="text-4xl font-medium tracking-tight !font-['Inter']">+5</p>
+              <p class="mt-2 text-sm text-white/40">Années d'expérience</p>
+            </div>
+
+            <div>
+              <p class="text-4xl font-medium tracking-tight !font-['Inter']">690+</p>
+              <p class="mt-2 text-sm text-white/40">Projets réalisés</p>
+            </div>
+
+            <div>
+              <p class="text-4xl font-medium tracking-tight !font-['Inter']">99%</p>
+              <p class="mt-2 text-sm text-white/40">Clients satisfaits</p>
+            </div>
+
+          </div>
+
+        </div>
+
+        <!-- Image -->
+        <div class="lg:pt-2">
+
+          <div class="group relative overflow-hidden rounded-2xl">
+            <img src="images/ratheo_image.jpg" alt="Rathéo, designer graphique freelance"
+              class="aspect-square w-full object-cover grayscale-0 transition-all duration-700 group-hover:grayscale">
+          </div>
+
+          <div class="mt-4 flex items-center justify-between text-sm text-white/40">
+            <span>@ratheo</span>
+            <span>Brand & Graphic Designer</span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!--Services-->
+  <section id="services" class="bg-black px-6 py-10 text-white md:px-10 lg:px-30 lg:py-20">
+    <div class="mx-auto">
+
+      <!-- En-tête -->
+      <div class="mb-16 flex items-end justify-between border-white/15 pb-6">
+        <div>
+          <p class="mb-3 text-sm uppercase tracking-[0.2em] text-white/40">
+            Expertise
+          </p>
+          <h2 class="text-3xl font-medium tracking-[-0.03em] md:text-4xl lg:text-5xl">
+            Mes services
+          </h2>
+        </div>
+      </div>
+
+      <!-- Liste des services -->
+      <div class="border-t border-white/15">
+
+        <!-- Service 01 -->
+        <a href="pages/service.html?id=logo"
+          class="group block border-b border-white/15 py-8 transition-colors duration-300 hover:bg-white/[0.03] md:py-10">
+          <div class="flex items-center gap-6 md:gap-10">
+            <span class="w-8 text-sm text-white/35 transition-colors duration-300 group-hover:text-white">
+              01
+            </span>
+
+            <h3
+              class="flex-1 text-2xl font-medium tracking-[-0.03em] transition-transform duration-500 group-hover:translate-x-2 md:text-4xl lg:text-5xl">
+              Création de logo
+            </h3>
+
+            <span class="hidden text-sm text-white/40 transition-colors duration-300 group-hover:text-white sm:block">
+              Identité
+            </span>
+
+            <span
+              class="flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-lg text-white/50 transition-all duration-300 group-hover:border-white group-hover:bg-white group-hover:text-black md:h-12 md:w-12">
+              ↗
+            </span>
+          </div>
+
+          <div class="mt-5 pl-14 md:pl-20 lg:max-w-2xl">
+            <p class="text-sm leading-relaxed text-white/45 md:text-base">
+              Des logos distinctifs et cohérents, conçus pour donner à votre marque
+              une présence forte et reconnaissable.
+            </p>
+          </div>
+        </a>
+
+        <!-- Service 02 -->
+        <a href="pages/service.html?id=identite"
+          class="group block border-b border-white/15 py-8 transition-colors duration-300 hover:bg-white/[0.03] md:py-10">
+          <div class="flex items-center gap-6 md:gap-10">
+            <span class="w-8 text-sm text-white/35 transition-colors duration-300 group-hover:text-white">
+              02
+            </span>
+
+            <h3
+              class="flex-1 text-2xl font-medium tracking-[-0.03em] transition-transform duration-500 group-hover:translate-x-2 md:text-4xl lg:text-5xl">
+              Identité visuelle
+            </h3>
+
+            <span class="hidden text-sm text-white/40 transition-colors duration-300 group-hover:text-white sm:block">
+              Branding
+            </span>
+
+            <span
+              class="flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-lg text-white/50 transition-all duration-300 group-hover:border-white group-hover:bg-white group-hover:text-black md:h-12 md:w-12">
+              ↗
+            </span>
+          </div>
+
+          <div class="mt-5 pl-14 md:pl-20 lg:max-w-2xl">
+            <p class="text-sm leading-relaxed text-white/45 md:text-base">
+              Une identité visuelle complète et harmonieuse pour exprimer votre
+              univers et renforcer votre image professionnelle.
+            </p>
+          </div>
+        </a>
+
+        <!-- Service 03 -->
+        <a href="pages/service.html?id=livre"
+          class="group block border-b border-white/15 py-8 transition-colors duration-300 hover:bg-white/[0.03] md:py-10">
+          <div class="flex items-center gap-6 md:gap-10">
+            <span class="w-8 text-sm text-white/35 transition-colors duration-300 group-hover:text-white">
+              03
+            </span>
+
+            <h3
+              class="flex-1 text-2xl font-medium tracking-[-0.03em] transition-transform duration-500 group-hover:translate-x-2 md:text-4xl lg:text-5xl">
+              Design de livre & ebook
+            </h3>
+
+            <span class="hidden text-sm text-white/40 transition-colors duration-300 group-hover:text-white sm:block">
+              Éditorial
+            </span>
+
+            <span
+              class="flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-lg text-white/50 transition-all duration-300 group-hover:border-white group-hover:bg-white group-hover:text-black md:h-12 md:w-12">
+              ↗
+            </span>
+          </div>
+
+          <div class="mt-5 pl-14 md:pl-20 lg:max-w-2xl">
+            <p class="text-sm leading-relaxed text-white/45 md:text-base">
+              Des mises en page claires et élégantes pour transformer vos contenus
+              en livres et ebooks agréables à lire.
+            </p>
+          </div>
+        </a>
+
+        <!-- Service 04 -->
+        <a href="pages/service.html?id=reseaux-sociaux"
+          class="group block border-b border-white/15 py-8 transition-colors duration-300 hover:bg-white/[0.03] md:py-10">
+          <div class="flex items-center gap-6 md:gap-10">
+            <span class="w-8 text-sm text-white/35 transition-colors duration-300 group-hover:text-white">
+              04
+            </span>
+
+            <h3
+              class="flex-1 text-2xl font-medium tracking-[-0.03em] transition-transform duration-500 group-hover:translate-x-2 md:text-4xl lg:text-5xl">
+              Visuels réseaux sociaux
+            </h3>
+
+            <span class="hidden text-sm text-white/40 transition-colors duration-300 group-hover:text-white sm:block">
+              Digital
+            </span>
+
+            <span
+              class="flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-lg text-white/50 transition-all duration-300 group-hover:border-white group-hover:bg-white group-hover:text-black md:h-12 md:w-12">
+              ↗
+            </span>
+          </div>
+
+          <div class="mt-5 pl-14 md:pl-20 lg:max-w-2xl">
+            <p class="text-sm leading-relaxed text-white/45 md:text-base">
+              Des visuels impactants et adaptés aux réseaux sociaux pour valoriser
+              votre contenu et capter l’attention de votre audience.
+            </p>
+          </div>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <!--contact-->
+  <section id="contact" class="bg-white px-6 py-10 text-black md:px-10 lg:px-30 lg:py-24">
+    <div class="mx-auto">
+
+      <!-- En-tête -->
+      <div class="mb-10 flex items-end justify-between border-b border-black/15 pb-6">
+        <div>
+          <p class="mb-3 text-sm uppercase tracking-[0.2em] text-black/40">
+            Contact
+          </p>
+
+          <h2 class="text-3xl font-medium tracking-[-0.03em] md:text-4xl lg:text-5xl">
+            Parlons de votre projet
+          </h2>
+        </div>
+      </div>
+
+      <div class="grid gap-16 lg:grid-cols-[0.9fr_1.1fr] lg:gap-24">
+
+        <!-- Colonne gauche -->
+        <div class="flex flex-col justify-between">
+          <div class="max-w-lg text-base leading-relaxed text-black/55">
+            <p>
+              Chaque projet commence par une idée. Qu’il s’agisse de créer une identité de marque, de concevoir un livre
+              ou de développer des supports de communication.
+            </p>
+            <p class="mt-8">
+              Je vous accompagne avec une approche créative, claire et attentive aux détails. Écrivez-moi pour discuter
+              de votre projet et imaginons ensemble sa prochaine étape.
+              maximum.
+            </p>
+            <p class="mt-8">
+              Vous recevrez une réponse sous 24 heures, accompagnée d’un devis complet pour votre projet.
+            </p>
+          </div>
+
+          <!-- Coordonnées -->
+          <div class="mt-10 space-y-7 pt-8">
+            <div>
+              <p class="mb-2 text-xs uppercase tracking-[0.18em] text-black/40">
+                Email
+              </p>
+
+              <a href="mailto:ratheodesigner@gmail.com"
+                class="text-base text-black/75 transition-colors duration-300 hover:text-black md:text-lg">
+                ratheodesigner@gmail.com
+              </a>
+            </div>
+
+            <div>
+              <p class="mb-2 text-xs uppercase tracking-[0.18em] text-black/40">
+                Whatsapp
+              </p>
+
+              <div class="">
+                <a href="https://wa.me/261322124670" target="_blank" rel="noopener noreferrer">
+                  +261 32 21 246 70
+                </a>
+              </div>
+            </div>
+
+            <div>
+              <p class="mb-2 text-xs uppercase tracking-[0.18em] text-black/40">
+                Location
+              </p>
+
+              <div class="">
+                <a class="transition-colors duration-300 hover:text-black">
+                  101 Antananarivo, Madagascar
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Formulaire -->
+        <form id="contact-form" action="https://formspree.io/f/xdekogab" method="POST" class="space-y-6">
+          <!--Status-->
+          <div id="form-success" class="hidden mb-8  rounded-xl border border-black/10 bg-black/[0.03] px-6 py-5"
+            role="status" aria-live="polite">
+            <div class="flex items-center gap-4">
+              <span
+                class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-black text-sm text-white">
+                <i class="text-xl fa-solid fa-check" aria-hidden="true"></i>
+              </span>
+
+              <div>
+                <h3 class="text-base font-medium text-black">
+                  Votre message a bien été envoyé.
+                </h3>
+
+                <p class="mt-1 text-sm leading-relaxed text-black/60">
+                  Nous vous contacterons dans un délai maximum de 24 h avec le devis complet.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <label for="name" class="mb-2 block text-sm text-black/60">
+              Nom
+            </label>
+
+            <input type="text" id="name" name="name" placeholder="Votre nom" required
+              class="w-full border-b border-black/20 bg-transparent px-0 py-3 text-black outline-none transition-colors placeholder:text-black/30 focus:border-black">
+          </div>
+
+          <div>
+            <label for="email" class="mb-2 block text-sm text-black/60">
+              Adresse e-mail
+            </label>
+
+            <input type="email" id="email" name="email" placeholder="vous@exemple.com" required
+              class="w-full border-b border-black/20 bg-transparent px-0 py-3 text-black outline-none transition-colors placeholder:text-black/30 focus:border-black">
+          </div>
+
+          <div>
+            <label for="service" class="mb-2 block text-sm text-black/60">
+              Service souhaité
+            </label>
+
+            <select id="service" name="service" required
+              class="w-full border-b border-black/20 bg-transparent px-0 py-3 text-black outline-none focus:border-black">
+              <option value="">Sélectionnez un service</option>
+              <option value="Création de logo">Création de logo</option>
+              <option value="Identité visuelle">Identité visuelle</option>
+              <option value="Design de livre ou eBook">Design de livre ou eBook</option>
+              <option value="Visuels réseaux sociaux">Visuels réseaux sociaux</option>
+              <option value="Supports de communication print">Supports de communication print</option>
+              <option value="Autre">Autre</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="budget" class="mb-2 block text-sm text-black/60">
+              Budget estimé
+            </label>
+
+            <select id="budget" name="budget"
+              class="w-full border-b border-black/20 bg-transparent px-0 py-3 text-black outline-none focus:border-black">
+              <option value="">Sélectionnez une fourchette</option>
+              <option value="150 - 250 €">150 – 250 €</option>
+              <option value="300 - 500 €">300 – 500 €</option>
+              <option value="600 - 1000 €">600 – 1000 €</option>
+              <option value="À définir">À définir</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="message" class="mb-2 block text-sm text-black/60">
+              Votre message
+            </label>
+
+            <textarea id="message" name="message" rows="5" placeholder="Parlez-moi de votre projet..." required
+              class="w-full resize-none border-b border-black/20 bg-transparent px-0 py-3 text-black outline-none transition-colors placeholder:text-black/30 focus:border-black"></textarea>
+          </div>
+
+          <input type="hidden" name="_subject" value="Demande de devis - ratheodesigner.site">
+
+          <p id="form-error" class="hidden text-sm text-red-600" role="alert">
+            Une erreur est survenue. Veuillez réessayer ou nous contacter directement par e-mail ou via Whatsapp.
+          </p>
+
+          <button id="form-submit" type="submit"
+            class="rounded-full inline-flex items-center bg-black px-7 py-4 text-sm text-white transition-colors duration-300 hover:bg-black/70">
+            <span id="form-submit-text">Envoyer le message</span>
+            <span class="ml-4 text-lg leading-none">↗</span>
+          </button>
+        </form>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Avis clients / Preuve sociale -->
+  <section class="bg-black px-6 pt-20 pb-10 text-white md:px-10 lg:px-24">
+    <div
+      class="mx-auto flex max-w-7xl flex-col items-start justify-between gap-8 border-y border-white/15 py-10 md:flex-row md:items-center md:gap-12">
+
+      <!-- Texte -->
+      <div>
+        <p class="mb-3 text-xs uppercase tracking-[0.2em] text-white/40">
+          La confiance de mes clients
+        </p>
+
+        <h2 class="max-w-xl text-2xl font-medium leading-tight tracking-tight md:text-3xl lg:text-4xl">
+          Plus de 590 avis positifs sur ComeUp.
+        </h2>
+      </div>
+
+      <!-- Lien ComeUp -->
+      <a href="https://comeup.com/fr/@ratheo" target="_blank" rel="noopener noreferrer"
+        class="group inline-flex items-center gap-3 pb-2 text-sm text-white transition-colors duration-300 hover:border-white">
+        <!-- Logo ComeUp -->
+        <img src="images/logo_comeup.jpg" alt="ComeUp"
+          class="h-8 rounded-full w-8 object-contain opacity-80 transition-opacity duration-300 group-hover:opacity-100" />
+
+        <span>Voir mon profil ComeUp</span>
+
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"
+          stroke-linecap="round" stroke-linejoin="round"
+          class="transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1"
+          aria-hidden="true">
+          <path d="M5 19L19 5"></path>
+          <path d="M9 5h10v10"></path>
+        </svg>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-black px-6 py-10 text-white md:px-10 lg:px-24">
+    <div class="mx-auto grid grid-cols-1 items-center gap-7 sm:grid-cols-3 sm:gap-0">
+
+      <!-- Copyright -->
+      <div class="justify-self-center sm:justify-self-start">
+        <p class="text-center text-xs text-white/40 sm:text-left sm:text-sm">
+          © 2026 Rathéo. Tous droits réservés.
+        </p>
+      </div>
+
+      <!-- Réseaux sociaux -->
+      <div class="flex items-center justify-center gap-5 text-lg text-white/50">
+
+        <!-- Instagram -->
+        <a href="https://www.instagram.com/ratheodesign/" aria-label="Instagram" target="_blank"
+          rel="noopener noreferrer" class="transition-colors duration-300 hover:text-white">
+          <i class="fa-brands fa-instagram"></i>
+        </a>
+
+        <!-- TikTok -->
+        <a href="https://www.tiktok.com/@ratheodesign" aria-label="TikTok" target="_blank" rel="noopener noreferrer"
+          class="transition-colors duration-300 hover:text-white">
+          <i class="fa-brands fa-tiktok"></i>
+        </a>
+
+        <!-- YouTube -->
+        <a href="https://www.youtube.com/@ratheodesign" aria-label="YouTube" target="_blank" rel="noopener noreferrer"
+          class="transition-colors duration-300 hover:text-white">
+          <i class="fa-brands fa-youtube"></i>
+        </a>
+
+        <!-- Pinterest -->
+        <a href="https://www.pinterest.com/ratheodesigner/" aria-label="Pinterest" target="_blank"
+          rel="noopener noreferrer" class="transition-colors duration-300 hover:text-white">
+          <i class="fa-brands fa-pinterest-p"></i>
+        </a>
+
+      </div>
+
+      <!-- Retour en haut -->
+      <div class="justify-self-center sm:justify-self-end">
+        <a href="#" class="text-xs text-white/40 transition-colors duration-300 hover:text-white sm:text-sm">
+          Retour en haut ↑
+        </a>
+      </div>
+
+    </div>
+  </footer>
+
+  <script src="js/contact.js"></script>
+  <script src="js/menu_responsive.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>

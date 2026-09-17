@@ -1,0 +1,80 @@
+[
+    {
+        "id": "logo",
+        "number": "01",
+        "title": "Création de logo",
+        "price": "À partir de 150 €",
+        "image": "../images/logo_collection.jpg",
+        "description": "Un logo professionnel est essentiel pour différencier votre entreprise et créer une première impression forte. Je conçois des logos uniques, reconnaissables et adaptés à votre activité, votre marque ou votre projet. Chaque création est pensée pour être claire, équilibrée et facilement utilisable sur différents supports, aussi bien en ligne qu’en impression. L’objectif est de vous fournir un logo esthétique, polyvalent et durable, qui reflète l’essence de votre activité et renforce votre crédibilité auprès de votre public.",
+        "included": [
+            "3 à 5 propositions de logo",
+            "Toutes les déclinaisons : vertical, horizontal, monochrome et favicon",
+            "Palette de couleurs",
+            "Typographie",
+            "Mockup de présentation",
+            "Fichiers : PNG, JPG, SVG, AI"
+        ],
+        "deadline": "3 à 7 jours",
+        "ctaTitle": "Obtenez un logo qui vous ressemble.",
+        "ctaDescription": "Parlons de votre projet et créons un logo professionnel, unique et adapté à votre activité."
+    },
+    {
+        "id": "identite",
+        "number": "02",
+        "title": "Identité visuelle",
+        "price": "À partir de 300 €",
+        "image": "../images/branding.jpg",
+        "description": "Une identité visuelle cohérente permet à votre marque d’être facilement reconnaissable et de communiquer une image professionnelle. Je crée un univers graphique complet qui traduit vos valeurs, votre positionnement et votre personnalité. Chaque élément est pensé pour fonctionner ensemble, du logo aux couleurs en passant par les typographies et les supports de communication. L’objectif est de construire une identité claire, harmonieuse et adaptable, capable d’accompagner votre marque dans son développement et de renforcer sa présence auprès de son public.",
+        "included": [
+            "Définition d’une direction artistique cohérente",
+            "Création ou finalisation du logo",
+            "Palette de couleurs principale et secondaire",
+            "Sélection des typographies adaptées à la marque",
+            "Création de la papeterie : carte de visite, papier à en-tête et enveloppe",
+            "Charte graphique présentant les règles d’utilisation de l’identité",
+            "Mockups de présentation des différents éléments"
+        ],
+        "deadline": "5 à 10 jours",
+        "ctaTitle": "Donnez une identité forte à votre marque.",
+        "ctaDescription": "Construisons ensemble une identité visuelle cohérente, professionnelle et reconnaissable, pensée pour valoriser votre marque sur tous vos supports."
+    },
+    {
+        "id": "livre",
+        "number": "03",
+        "title": "Design de livres & ebooks",
+        "price": "À partir de 100 €",
+        "image": "../images/livre.jpg",
+        "description": "Un livre ou un ebook bien conçu doit être agréable à consulter, facile à lire et visuellement cohérent. Je réalise des couvertures et des mises en page éditoriales adaptées à votre contenu, à votre public et au format de diffusion choisi. La composition, la typographie, les espacements et la hiérarchie des informations sont soigneusement travaillés pour offrir une expérience de lecture fluide et professionnelle. Que vous soyez auteur, formateur ou créateur de contenu, votre document bénéficiera d’une présentation claire et soignée.",
+        "included": [
+            "Conception ou adaptation de la couverture",
+            "Mise en page intérieure du livre ou de l’eBook",
+            "Définition d’une hiérarchie typographique claire et cohérente",
+            "Mise en forme professionnelle des textes et des éléments visuels",
+            "Intégration d’illustrations, d’images et d’icônes",
+            "Export du fichier PDF en haute qualité",
+            "Fichier source modifiable au format InDesign (.indd) ou Canva"
+        ],
+        "deadline": "5 à 10 jours",
+        "ctaTitle": "Donnez vie à votre contenu avec un design professionnel.",
+        "ctaDescription": "Transformez vos idées et vos textes en un livre ou un eBook clair, élégant et agréable à lire, avec une mise en page adaptée à votre contenu et à votre audience."
+    },
+    {
+        "id": "reseaux-sociaux",
+        "number": "04",
+        "title": "Visuels réseaux sociaux",
+        "price": "À partir de 80 €",
+        "image": "../images/visuels.jpg",
+        "description": "Des visuels professionnels permettent à votre marque de se démarquer et de maintenir une communication cohérente sur les réseaux sociaux. Je conçois des publications, stories, bannières et visuels promotionnels adaptés à votre identité et à vos objectifs. Chaque création est pensée pour attirer l’attention, transmettre votre message clairement et renforcer la reconnaissance de votre marque. Les designs peuvent être réalisés pour une campagne ponctuelle ou sous forme de templates réutilisables afin de faciliter votre communication au quotidien.",
+        "included": [
+            "Création de visuels pour publications",
+            "Conception de carrousels pour présenter des contenus explicatifs",
+            "Création de visuels promotionnels",
+            "Des visuels adaptés pour les campagnes Facebook Ads",
+            "Déclinaison des designs aux formats carré et story",
+            "Fichier source modifiable au format PSD ou Canva"
+        ],
+        "deadline": "3 à 5 jours",
+        "ctaTitle": "Faites remarquer votre marque sur les réseaux sociaux.",
+        "ctaDescription": "Créons des visuels attractifs, cohérents et adaptés à votre identité, pour renforcer votre présence en ligne et capter l’attention de votre audience."
+    }
+]
