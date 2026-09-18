@@ -91,4 +91,12 @@
         <priority>0.8</priority>
     </url>
 
+    <!-- Design pour les réseaux sociaux -->
+    <url>
+        <loc>https://ratheodesigner.site/pages/service.html?id=reseaux-sociaux</loc>
+        <lastmod>2026-09-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
 </urlset>
