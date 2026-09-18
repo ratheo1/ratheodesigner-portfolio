@@ -60,9 +60,10 @@ fetch("../data/services.json")
             return;
         }
 
-        // Titre SEO et meta description depuis services.json
+        // Titre SEO depuis services.json
         document.title = service.seoTitle || `${service.title} — Rathéo`;
 
+        // Meta description SEO depuis services.json
         setMetaDescription(
             service.metaDescription || service.description
         );
@@ -99,10 +100,12 @@ fetch("../data/services.json")
             )
             .join("");
 
-        console.log("Included : ", includedElement);
+        console.log("Service chargé :", service);
+        console.log("Included :", includedElement);
     })
     .catch((error) => {
         console.error("Erreur :", error);
     });
 
+console.log("Service sélectionné :", serviceId);
 console.log("Élément HTML :", includedElement);
