@@ -105,6 +105,4 @@ fetch("../data/services.json")
         console.error("Erreur :", error);
     });
 
-console.log("Service sélectionné :", service);
-console.log("Included :", service.included);
 console.log("Élément HTML :", includedElement);
