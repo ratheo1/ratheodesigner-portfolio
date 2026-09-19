@@ -45,14 +45,13 @@
     {
         "id": "livre",
         "number": "03",
-        "title": "Design de livres & ebooks",
+        "title": "Mise en page de livre & ebook",
         "price": "À partir de 100 €",
         "image": "../images/livre.jpg",
         "description": "Un livre ou un ebook bien conçu doit être agréable à consulter, facile à lire et visuellement cohérent. Je réalise des couvertures et des mises en page éditoriales adaptées à votre contenu, à votre public et au format de diffusion choisi. La composition, la typographie, les espacements et la hiérarchie des informations sont soigneusement travaillés pour offrir une expérience de lecture fluide et professionnelle. Que vous soyez auteur, formateur ou créateur de contenu, votre document bénéficiera d’une présentation claire et soignée.",
-        "seoTitle": "Design de livres et ebooks professionnels",
-        "metaDescription": "Rathéo Design crée des couvertures et des mises en page professionnelles pour livres et ebooks, avec une présentation claire, élégante et adaptée à votre contenu.",
+        "seoTitle": "Mise en page de livre et ebook professionnel",
+        "metaDescription": "Mise en page professionnelle de livres et ebooks pour auteurs, formateurs et créateurs de contenu. Une présentation claire, soignée et prête à être publiée.",
         "included": [
-            "Conception ou adaptation de la couverture",
             "Mise en page intérieure du livre ou de l’eBook",
             "Définition d’une hiérarchie typographique claire et cohérente",
             "Mise en forme professionnelle des textes et des éléments visuels",
@@ -67,16 +66,15 @@
     {
         "id": "reseaux-sociaux",
         "number": "04",
-        "title": "Visuels réseaux sociaux",
-        "price": "À partir de 80 €",
+        "title": "Design de visuels Facebook Ads",
+        "price": "À partir de 85 €",
         "image": "../images/visuels.jpg",
         "description": "Des visuels professionnels permettent à votre marque de se démarquer et de maintenir une communication cohérente sur les réseaux sociaux. Je conçois des publications, stories, bannières et visuels promotionnels adaptés à votre identité et à vos objectifs. Chaque création est pensée pour attirer l’attention, transmettre votre message clairement et renforcer la reconnaissance de votre marque. Les designs peuvent être réalisés pour une campagne ponctuelle ou sous forme de templates réutilisables afin de faciliter votre communication au quotidien.",
-        "seoTitle": "Création de visuels pour réseaux sociaux",
-        "metaDescription": "Créez une présence professionnelle sur les réseaux sociaux avec des publications, stories, carrousels, bannières et visuels publicitaires adaptés à votre marque.",
+        "seoTitle": "Création de visuels Facebook Ads & Instagram",
+        "metaDescription": "Création de visuels publicitaires professionnels pour Facebook et Instagram Ads. Des designs clairs et attractifs pour présenter votre offre et capter l’attention.",
         "included": [
-            "Création de visuels pour publications",
+            "A partir de (03) visuels cohérents pour publication",
             "Conception de carrousels pour présenter des contenus explicatifs",
-            "Création de visuels promotionnels",
             "Des visuels adaptés pour les campagnes Facebook Ads",
             "Déclinaison des designs aux formats carré et story",
             "Fichier source modifiable au format PSD ou Canva"
@@ -84,5 +82,27 @@
         "deadline": "3 à 5 jours",
         "ctaTitle": "Faites remarquer votre marque sur les réseaux sociaux.",
         "ctaDescription": "Créons des visuels attractifs, cohérents et adaptés à votre identité, pour renforcer votre présence en ligne et capter l’attention de votre audience."
+    }
+    {
+        "id": "couverture-livre",
+        "number": "05",
+        "title": "Couverture de livre Amazon KDP",
+        "price": "À partir de 100 €",
+        "image": "../images/couverture.jpg",
+        "description": "Je crée des couvertures de livres et d’ebooks professionnelles pour Amazon KDP, adaptées aux formats numériques et imprimés. Avec **plus de 300 couvertures réalisées, principalement pour Amazon KDP**, j’ai une solide expérience dans la conception de couvertures destinées à l’autoédition. Ma maîtrise de la **communication visuelle** me permet de créer des designs cohérents avec le contenu et le positionnement de chaque ouvrage, tout en accordant une attention particulière à la lisibilité, à la hiérarchie visuelle et à l’impact de la couverture. Je possède également une bonne connaissance des contraintes liées à la publication en autoédition et peux identifier et corriger les erreurs de mise en page ou de préparation des fichiers susceptibles de poser problème lors de la publication sur Amazon KDP.",
+        "seoTitle": "Création de couverture de livre pour Amazon KDP",
+        "metaDescription": "Création de couverture de livre professionnelle pour Amazon KDP, adaptée aux formats paperback et ebook. Design soigné et fichiers prêts pour la publication.",
+        "included": [
+            "Couverture broché ou relié",
+            "Couverture ebook",
+            "1è et 4è de couverture",
+            "Dos du livre",
+            "Respect du gabarit KDP ou de l'imprimeur",
+            "Fichiers PDF/JPG Haute résolution",
+            "Fichier source .psd"
+        ],
+        "deadline": "3 à 5 jours",
+        "ctaTitle": "Donnez à votre livre une couverture professionnelle",
+        "ctaDescription": "Vous avez un livre prêt à publier sur Amazon KDP ? Je crée une couverture professionnelle, adaptée à votre format et conçue pour présenter votre livre avec impact."
     }
 ]
