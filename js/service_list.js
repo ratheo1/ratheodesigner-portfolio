@@ -45,7 +45,9 @@ if (servicesList) {
 
                             <div class="mt-5 pl-14 md:pl-20 lg:max-w-2xl">
                                 <p class="text-sm leading-relaxed text-white/45 md:text-base">
-                                    ${service.description}
+                                    ${service.description
+                                        ? service.description.split(/\s+/).slice(0, 30).join(" ") + "..."
+                                        : ""}
                                 </p>
                             </div>
 
