@@ -1,7 +1,7 @@
 const servicesList = document.querySelector("#services-list");
 
 if (servicesList) {
-    fetch("../data/services.json")
+    fetch("data/services.json")
         .then((response) => {
             if (!response.ok) {
                 throw new Error("Impossible de charger les services.");
