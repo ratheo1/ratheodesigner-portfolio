@@ -99,4 +99,12 @@
         <priority>0.8</priority>
     </url>
 
+    <!-- Couverture de livre -->
+    <url>
+        <loc>https://ratheodesigner.site/pages/service.html?id=couverture-livre</loc>
+        <lastmod>2026-09-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
 </urlset>
