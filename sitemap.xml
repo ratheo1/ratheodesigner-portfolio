@@ -1,110 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Page d'accueil -->
+  <url>
+    <loc>https://ratheodesigner.site/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
 
-    <!-- Page d'accueil -->
-    <url>
-        <loc>https://ratheodesigner.site/</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
+  <!-- ========================= -->
+  <!-- PAGES PROJETS -->
+  <!-- ========================= -->
 
-    <!-- ========================= -->
-    <!-- PAGES PROJETS -->
-    <!-- ========================= -->
+  <!-- Carslink -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/projet.html?id=carslink</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-    <!-- Carslink -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/projet.html?id=carslink</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- Collection de couvertures de livres -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/projet.html?id=book-collection</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-    <!-- Collection de couvertures de livres -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/projet.html?id=book-collection</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- Collection de logos -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/projet.html?id=logo-collection</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-    <!-- Collection de logos -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/projet.html?id=logo-collection</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- Aurora Coffee -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/projet.html?id=aurora-coffee</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-    <!-- Aurora Coffee -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/projet.html?id=aurora-coffee</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- StepUp -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/projet.html?id=stepup</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-    <!-- StepUp -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/projet.html?id=stepup</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- Chouss Beauty -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/projet.html?id=chouss-beauty</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-    <!-- Chouss Beauty -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/projet.html?id=chouss-beauty</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- ========================= -->
+  <!-- PAGES SERVICES -->
+  <!-- ========================= -->
 
-    <!-- ========================= -->
-    <!-- PAGES SERVICES -->
-    <!-- ========================= -->
+  <!-- Création de logo -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/service.html?id=logo</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-    <!-- Création de logo -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/service.html?id=logo</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- Identité visuelle -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/service.html?id=identite</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-    <!-- Identité visuelle -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/service.html?id=identite</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- Design de livre et ebook -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/service.html?id=livre</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-    <!-- Design de livre et ebook -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/service.html?id=livre</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- Design pour les réseaux sociaux -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/service.html?id=reseaux-sociaux</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
-    <!-- Design pour les réseaux sociaux -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/service.html?id=reseaux-sociaux</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- Couverture de livre -->
-    <url>
-        <loc>https://ratheodesigner.site/pages/service.html?id=couverture-livre</loc>
-        <lastmod>2026-09-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- Couverture de livre -->
+  <url>
+    <loc>https://ratheodesigner.site/pages/service.html?id=couverture-livre</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>
