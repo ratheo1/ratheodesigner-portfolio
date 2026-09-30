@@ -146,5 +146,28 @@
       "../images/chouss-beauty/chouss3.jpg",
       "../images/chouss-beauty/chouss4.jpg"
     ]
-  }
+  },
+
+  "howl": {
+    "title": "Howl",
+    "seoTitle": "Howl | Identité visuelle poue une marque premium d’alimentation pour chiens",
+    "seoDescription": "Découvrez Howl, un projet de création d’identité visuelle pour une marque de nourriture pour chiens haut de gamme. Un design moderne et original qui reflète la qualité et le caractère de la marque.",
+    "category": "Identité visuelle",
+    "year": "2026",
+    "cover": "../images/howl-cover.jpg",
+    "livrables": "Logo, Charte graphique, Packaging",
+    "description": [
+      "Howl est un projet d’identité visuelle pour une marque de nourriture pour chiens haut de gamme, qui met l’accent sur la qualité des ingrédients et le bien-être des animaux. L’objectif était de créer une image de marque moderne, originale et sympathique, qui inspire confiance et se démarque de la concurrence.",
+      "Le logo personnalisé intègre astucieusement la tête d’un chien dans la lettre « O », pour créer un symbole unique et facile à reconnaître. La typographie arrondie apporte une touche de douceur et de convivialité, tandis que les couleurs vives donnent à la marque une image dynamique et moderne.",
+      "Le projet comprend également la création des emballages, des visuels numériques et de l’ensemble des éléments graphiques, afin de garantir une identité visuelle cohérente sur tous les supports."
+    ],
+    "col": 2,
+    "aspect": "4/3",
+    "gallery": [
+      "../images/howl/howl1.jpg",
+      "../images/howl/howl2.jpg",
+      "../images/howl/howl3.jpg",
+      "../images/howl/howl4.jpg"
+    ]
+  },
 }
