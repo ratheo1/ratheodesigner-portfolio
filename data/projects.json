@@ -169,5 +169,28 @@
       "../images/howl/howl3.jpg",
       "../images/howl/howl4.jpg"
     ]
+  },
+
+  "ember-oak": {
+    "title": "Ember Oak",
+    "seoTitle": "Ember Oak – Identité visuelle premium pour restaurant",
+    "seoDescription": "Découvrez Ember Oak, un projet d’identité visuelle pour un restaurant premium. Un branding minimaliste et élégant associant feu, nature et savoir-faire artisanal.",
+    "category": "Identité visuelle",
+    "year": "2026",
+    "cover": "../images/ember-oak/ember-cover.jpg",
+    "livrables": "Logo, Charte graphique, Menu, Signalétique, Templates réseaux sociaux",
+    "description": [
+      "Ember Oak est un restaurant haut de gamme inspiré par l'art traditionnel de la cuisson au feu de bois. Son identité visuelle associe subtilement la silhouette d'une feuille de chêne à une flamme, symbolisant l'authenticité, la chaleur et l'excellence artisanale.",
+      "Conçue dans une approche minimaliste et moderne, cette identité repose sur une palette de couleurs raffinée, une typographie élégante et un logo distinctif. Chaque élément a été pensé pour refléter l'univers du restaurant et son savoir-faire.",
+      "L'identité se décline sur différents supports, notamment la signalétique, les menus, les emballages et les supports numériques. Le résultat est une image de marque sophistiquée qui exprime l'harmonie entre le feu, la nature et l'art de la gastronomie."
+    ],
+    "col": 2,
+    "aspect": "4/3",
+    "gallery": [
+      "../images/ember-oak/ember1.jpg",
+      "../images/ember-oak/ember2.jpg",
+      "../images/ember-oak/ember3.jpg",
+      "../images/ember-oak/ember4.jpg"
+    ]
   }
 }
